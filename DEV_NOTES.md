@@ -14,3 +14,7 @@ Personal development log — notes, findings, and ongoing work.
 - Reviewed open issues, added labels
 - Checked for memory leaks in long-running path
 - Bumped patch version
+
+## 2026-04-01
+- Updated CI cache strategy
+- Added healthcheck endpoint stub
